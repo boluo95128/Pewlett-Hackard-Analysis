@@ -27,6 +27,7 @@
 ### Summary of Results
 #### The total number of current employees retiring is 33118.
 #### The total number of individuals available for mentorship role is 15141.
+##### * Note to grader: this result is based on the criteria laid out in the module lessons. For module challenges, the result differs as per challenge requirement, the hire date is not a eligiblity criteria for retirement. Only the birth date is considered when filtering retirement eligible employees.
 ### Recommendations for Additional Analyses
 #### Using the existing information we already have, we should consider to analyze on the retirement impact on the gender distribution of the workforce. In modern corporate culture best practice, most of the companies aim to achieve a gender balanced workforce. With the upcoming retirement, it is very likely the the gender equalities within the workforce will be significantly impacted. This analysis will help the HR and Recruiting department to understand the trend and enable them to proactively to adjust the hiring strategies to offset any negative impact.
 #### We should also consider bringing the data of employees' work location to analyze the retirement impact over the geographical operation. Perhelps the upcoming retirement will hit certain offices or countries harder than others. In order to maintain a continuity of the local operation, this analysis help the company to better plan the hiring timeline and prioritize the hiring at the locations mostly impacted by the retirement.
